@@ -27,12 +27,11 @@ Nesse desafio refatorei uma aplicação React que utilizava componentes de clas
 
 ![./.github/screenshot.png](./.github/application.gif)
 
-Os dados do carrinho, subtotal e total são atualizados e persistidos no local storage em toda interação do usuário com as funcionalidades da aplicação.
-Na aplicação é possível:
-- adicionar um produto ao carrinho
-- remover um produto do carrinho
-- incrementar quantidade de produto no carrinho
-- decrementar quantidade de produto no carrinho
+Na aplicação é possível
+- adicionar um novo prato
+- editar dados de um prato existente
+- deletar um prato
+- marcar prato como indisponível
 
 ## :rocket: Tecnologias e Ferramentas
 - [React](https://reactjs.org)
